@@ -50,7 +50,7 @@ Reference dataset list for alternatives:
 ## Baselines and Implementations to Start From
 
 
-- **Lightweight SER direction (target to improve):**  
+- **Lightweight SER direction:**  
   *Wav2Small: Distilling Wav2Vec 2 to 72K Parameters for Low-Resource Speech Emotion Recognition*  
   arXiv: https://arxiv.org/abs/2408.13920
 
